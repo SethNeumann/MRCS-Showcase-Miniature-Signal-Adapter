@@ -1,0 +1,19 @@
+
+signal adapter top layout v11.pdf
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.b##
+*.b#1
+*.b#2
+*.dri
+*.gpi
+*.s##
+*.s#1
+*.s#2
