@@ -17,3 +17,5 @@ signal adapter top layout v11.pdf
 *.s##
 *.s#1
 *.s#2
+*.scr
+MRCS-Showcase-Miniature-Signal-Adapter-array-4x4.brd

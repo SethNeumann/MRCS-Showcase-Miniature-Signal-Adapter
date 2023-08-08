@@ -1193,11 +1193,11 @@ Basic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (sma
 <sheets>
 <sheet>
 <plain>
-<text x="152.4" y="20.32" size="2.1844" layer="97">A Template for Eagle Projects</text>
+<text x="152.4" y="20.32" size="2.1844" layer="97">Signal Base Adapter for Showcase Searchlights</text>
 <text x="240.03" y="12.7" size="2.1844" layer="97">1.0</text>
 <text x="241.3" y="6.35" size="2.1844" layer="97">A</text>
 <text x="166.37" y="6.35" size="2.1844" layer="97">Seth Neumann, Allison Dendy</text>
-<text x="33.02" y="53.34" size="1.778" layer="91">Resitors are1206, you can solder them per lead
+<text x="33.02" y="53.34" size="1.778" layer="91">Resitors are 1206, you can solder them
 or bridge the gap with a wire or solder blob</text>
 </plain>
 <instances>
